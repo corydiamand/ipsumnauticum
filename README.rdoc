@@ -1,0 +1,32 @@
+== README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
+
+Sources of nautical words:
+
+http://phrontistery.info/nautical.html
+
+http://www.gutenberg.org/files/26000/26000-h/26000-h.htm
+
+http://en.wikipedia.org/w/index.php?title=Category:Nautical_terms&pagefrom=Sailor#mw-pages
