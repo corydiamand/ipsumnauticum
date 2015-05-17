@@ -488,7 +488,31 @@ class TermSet
       "yard",
       "yardarm",
       "yawl",
-      "zabra"
+      "zabra",
+      "barnacle",
+      "reef",
+      "fish",
+      "current",
+      "kelp",
+      "jellyfish",
+      "shark",
+      "whale",
+      "ocean",
+      "beach",
+      "octopus",
+      "squid",
+      "starfish",
+      "swordfish",
+      "barracuda",
+      "tide pool",
+      "tides",
+      "tsunami",
+      "wave",
+      "wind",
+      "gusts",
+      "squall",
+      "gale",
+      "swell"
     ]
   end
 
