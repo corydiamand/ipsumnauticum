@@ -1,4 +1,18 @@
 class TermSet
+
+  def self.paragraph
+    @terms = self.terms.shuffle[0..45].each do |term|
+      term.downcase!
+    end
+    @terms.first.capitalize!
+    @terms[16].capitalize!
+    @terms[31].capitalize!
+    @terms[15].concat('.')
+    @terms[30].concat('.')
+    @terms.last.concat('.')
+    @final_terms = @terms.join(" ")
+  end
+
   def self.terms
     [
       "Aft",
